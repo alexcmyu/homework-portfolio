@@ -1,0 +1,20 @@
+html {
+  font-family: "sofia-pro", Helvetica, Arial, sans-serif;
+}
+
+nav, footer {
+  text-align: center;
+  padding: 15px;
+  margin: 30px;
+  font-size: 18px;
+}
+
+.workimgs {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 70px;
+}
